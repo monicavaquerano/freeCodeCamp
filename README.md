@@ -1,2 +1,2 @@
 # freeCodeCamp
-My solutions and thoughts to some freeCodeCamp challenges/lessons
+My notes, thoughts and solutions to some freeCodeCamp challenges/lessons
