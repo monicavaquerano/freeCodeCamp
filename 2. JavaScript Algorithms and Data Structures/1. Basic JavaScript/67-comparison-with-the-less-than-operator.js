@@ -12,4 +12,4 @@ function testLessThan(val) {
 
 console.log(testLessThan(10));
 console.log(testLessThan(50));
-console.log(testLessThan(60));
+console.log(testLessThan(55));
