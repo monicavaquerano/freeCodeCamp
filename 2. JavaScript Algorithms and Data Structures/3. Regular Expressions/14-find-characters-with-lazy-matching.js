@@ -3,3 +3,4 @@ let myRegex = /<[a-z0-9]*?>/; // Change this line
 let result = text.match(myRegex);
 
 console.log(result);
+
