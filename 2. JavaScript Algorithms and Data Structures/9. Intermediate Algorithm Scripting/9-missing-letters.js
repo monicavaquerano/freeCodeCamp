@@ -14,3 +14,4 @@ function fearNotLetter(str) {
   console.log(fearNotLetter("abcde")); // undefined
   console.log(fearNotLetter("abcdefghjklmno")); //'i'
   console.log(fearNotLetter("stvwx")); //'u'
+
