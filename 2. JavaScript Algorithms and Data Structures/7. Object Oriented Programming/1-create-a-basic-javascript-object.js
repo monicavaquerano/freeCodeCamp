@@ -3,3 +3,8 @@ let dog = {
   numLegs: 4
 
 };
+
+let dog = {
+  name: "Perla",
+  numLegs: 4
+};
